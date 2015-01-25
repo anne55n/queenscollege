@@ -46,15 +46,18 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url(../img/demo/3.png);
 }
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 980px) {
 
 section.module.parallax-1 {
   background: url(../img/demo/1.png);
+  max-width:100%;
 }
 section.module.parallax-2 {
   background: url(../img/demo/2.png);
+  max-width:100%;
 }
 section.module.parallax-3 {
   background: url(../img/demo/3.png);
+  max-width:100%;
 }
 }
