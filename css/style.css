@@ -38,6 +38,17 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section.module.parallax-1 {
+  background-image: url(../img/demo/1.png);
+}
+section.module.parallax-2 {
+  background-image: url(../img/demo/2.png);
+}
+section.module.parallax-3 {
+  background-image: url(../img/demo/3.png);
+}
+@media only screen and (max-device-width: 480px) {
+
+section.module.parallax-1 {
   background: url(../img/demo/1.png);
 }
 section.module.parallax-2 {
@@ -46,6 +57,4 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background: url(../img/demo/3.png);
 }
-
-
-
+}
