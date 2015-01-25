@@ -39,7 +39,6 @@ section.module.parallax h1 {
 }
 section.module.parallax-1 {
   background-image: url("../img/demo/1.jpg");
-max-width: 100%;
 }
 section.module.parallax-2 {
   background-image: url("../img/demo/2.jpg");
@@ -47,3 +46,11 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url("../img/demo/3.jpg");
 }
+
+@media only screen and (max-device-width: 480px) {
+		  section.module.parallax-1 {
+      background-image: url("../img/demo/1.jpg");
+			height: 93px;
+			position: relative;
+		}
+	}
