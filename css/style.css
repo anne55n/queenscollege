@@ -47,7 +47,6 @@ section.module.parallax-3 {
   background-image: url("../img/demo/3.jpg");
 }
 
-@media only screen and (max-device-width: 480px) {
 
 @media only screen and (max-device-width: 480px) {
   section.module.parallax-1
