@@ -51,8 +51,7 @@ section.module.parallax-3 {
 @media only screen and (max-device-width: 480px) {
   section.module.parallax-1
   {
-        background-image: url("../img/demo/11.jpg");
-        background-size: 80px 60px;
+        background: url("http://www.wpclipart.com/animals/cats/cat_photos/cat_face_striped_tabby.png");
         }
   
 		}
