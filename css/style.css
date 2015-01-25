@@ -47,14 +47,3 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url("../img/demo/3.jpg");
 }
-@media only screen and (max-device-width: 480px) {
-    div[class="container"] {
-        background-image: url("../img/demo/1.jpg");
-        width: 325px !important;
-        height: 115px !important;
-    }
-    div[class="container"] img { 
-        display: none; 
-    }
-}
-
