@@ -32,7 +32,7 @@ section.module.parallax h1 {
   font-size: 200%;
   line-height: 2400%;
   line-width:100%;
-  font-weight: 70%;
+  font-weight: 500;
   text-align: center;
   text-transform: uppercase;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -49,10 +49,8 @@ section.module.parallax-3 {
 @media only screen and (max-device-width: 980px) {
 section.module.parallax h1 {
   color: rgba(220, 0, 0, 0.6);
-  background: rgba(132, 122, 141, 0.6);
-  background-size:200px 30px;
   font-size: 120%;
-  font-weight: 90%;
+  font-weight: 200;
 }
 section.module.parallax-1 {
   background: url(../img/demo/11.png);
