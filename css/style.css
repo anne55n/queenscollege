@@ -29,10 +29,10 @@ section.module.parallax {
 }
 section.module.parallax h1 {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 300%;
+  font-size: 250%;
   line-height: 2400%;
   line-width:100%;
-  font-weight: 90%;
+  font-weight: 70%;
   text-align: center;
   text-transform: uppercase;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
