@@ -48,22 +48,4 @@ section.module.parallax-3 {
 }
 
 
-@media only screen and (max-device-width: 480px) {
-  section.module.parallax-1
-  {
-        background: url("../img/demo/1.png");
-        background-size:360px 600px;
-        background-repeat: no-repeat;
-        }
-        section.module.parallax-2 {
-        background: url("../img/demo/2.png");
-        background-size:360px 600px;
-        background-repeat: no-repeat;
-        }
-        section.module.parallax-3 {
-        background: url("../img/demo/3.png");
-        background-size:360px 600px;
-        background-repeat: no-repeat;
-        }
-}
 
