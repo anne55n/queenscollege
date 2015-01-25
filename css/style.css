@@ -38,7 +38,7 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section.module.parallax-1 {
-  background-image: url(../img/demo/11.png);
+  background-image: url(../img/demo/1.png);
 }
 section.module.parallax-2 {
   background-image: url(../img/demo/2.png);
@@ -52,7 +52,7 @@ section.module.parallax h1 {
   font-weight: 50%;
 }
 section.module.parallax-1 {
-  background: url(../img/demo/1.png);
+  background: url(../img/demo/11.png);
   max-width:100%;
 }
 section.module.parallax-2 {
