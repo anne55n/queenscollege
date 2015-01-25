@@ -52,6 +52,7 @@ section.module.parallax-3 {
   section.module.parallax-1
   {
         background: url("../img/demo/1.png");
+        background-size:320px 600px;
         }
   
 		}
