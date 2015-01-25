@@ -53,15 +53,15 @@ section.module.parallax h1 {
 }
 section.module.parallax-1 {
   background: url(../img/demo/11.png);
-  background-size: 80% 100%;
+  background-size: 200% 100%;
 }
 section.module.parallax-2 {
   background: url(../img/demo/2.png);
-  background-size: 80% 100%;
+  background-size: 200% 100%;
 }
 section.module.parallax-3 {
   background: url(../img/demo/3.png);
-  background-size: 80% 100%;
+  background-size: 200% 100%;
 }
 #im1{
   width:100%;
