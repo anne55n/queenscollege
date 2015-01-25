@@ -55,11 +55,11 @@ section.module.parallax-3 {
         background-size:320px 600px;
         }
         section.module.parallax-2 {
-        background-image: url("../img/demo/2.png");
+        background: url("../img/demo/2.png");
         background-size:320px 600px;
         }
         section.module.parallax-3 {
-        background-image: url("../img/demo/3.png");
+        background: url("../img/demo/3.png");
         background-size:320px 600px;
         }
 }
