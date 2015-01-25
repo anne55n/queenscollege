@@ -48,7 +48,7 @@ section.module.parallax-3 {
 }
 @media only screen and (max-device-width: 980px) {
 section.module.parallax h1 {
-  font-size: 150%;
+  font-size: 120%;
   font-weight: 50%;
 }
 section.module.parallax-1 {
@@ -64,7 +64,7 @@ section.module.parallax-3 {
   max-width:100%;
 }
 #im1{
-  width:65%;
-  height:55%;
+  width:85%;
+  height:75%;
 }
 }
