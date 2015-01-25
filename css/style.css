@@ -1,4 +1,4 @@
-ection.module:last-child {
+section.module:last-child {
   margin-bottom: 0;
 }
 section.module h2 {
@@ -38,13 +38,15 @@ section.module.parallax h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 section.module.parallax-1 {
-  background: url("../img/demo/1.png");
+  background-image: url("../img/demo/_small/1.png");
+  width:100%;
+  height: 100%;
 }
 section.module.parallax-2 {
-  background: url("../img/demo/2.png");
+  background-image: url("../img/demo/_small/2.png");
 }
 section.module.parallax-3 {
-  background: url("../img/demo/3.png");
+  background-image: url("../img/demo/_small/3.png");
 }
 
 
