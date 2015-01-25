@@ -29,7 +29,7 @@ section.module.parallax {
 }
 section.module.parallax h1 {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 200%;
+  font-size: 40px;
   line-height: 2400%;
   line-width:100%;
   font-weight: 500;
@@ -46,11 +46,10 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url(../img/demo/3.png);
 }
-@media only screen and (max-device-width: 980px) {
+@media only screen and (max-device-width: 960px) {
 section.module.parallax h1 {
   color: rgba(220, 0, 0, 0.6);
   font-size: 120%;
-  font-weight: 200;
 }
 section.module.parallax-1 {
   background: url(../img/demo/11.png);
