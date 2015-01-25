@@ -50,8 +50,7 @@ section.module.parallax-3 {
 @media only screen and (max-device-width: 480px) {
 		  section.module.parallax-1 {
       background-image: url("../img/demo/cat.jpg");
-			height: 600px;
-			max-width: 100%;
-			position: relative;
+			height: 300%;
+		
 		}
 	}
