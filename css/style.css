@@ -42,8 +42,6 @@ section.module.parallax h1 {
 }
 section.module.parallax-1 {
   background-image: url(../img/demo/1.jpg);
-  width:100%;
-  height:100%;
 }
 section.module.parallax-2 {
   background-image: url(../img/demo/2.jpg);
