@@ -29,7 +29,7 @@ section.module.parallax {
 }
 section.module.parallax h1 {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 250%;
+  font-size: 200%;
   line-height: 2400%;
   line-width:100%;
   font-weight: 70%;
@@ -39,7 +39,7 @@ section.module.parallax h1 {
 }
 section.module.parallax-1 {
   background-image: url(../img/demo/1.png);
-  background-size:100%, 100%;
+  background-size:100% 100%;
 }
 section.module.parallax-2 {
   background-image: url(../img/demo/2.png);
